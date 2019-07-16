@@ -17,12 +17,12 @@ VIM(官网地址：[https://www.vim.org/](https://www.vim.org/)), Windows 上使
 
 #### JetBrains 全家桶
 JetBrains (官网地址：[https://www.jetbrains.com/](https://www.jetbrains.com/) ) 旗下有很多款集成开发环境。
-- 有面向C/C++的[CLion](https://www.jetbrains.com/clion/)
-- 有面向Java/Kotlin的[IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- 有面向Go的[GoLand](https://www.jetbrains.com/go/)
-- 有面向PHP的[PhpStorm](https://www.jetbrains.com/phpstorm/)
-- 有面向Python的[PyCharm](https://www.jetbrains.com/pycharm/)
-- 有面向JavaScript的[WebStorm](https://www.jetbrains.com/webstorm/)
+- 有面向 C/C++ 的 [CLion](https://www.jetbrains.com/clion/)
+- 有面向 Java/Kotlin 的 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- 有面向 Go 的 [GoLand](https://www.jetbrains.com/go/)
+- 有面向 PHP 的 [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- 有面向 Python 的 [PyCharm](https://www.jetbrains.com/pycharm/)
+- 有面向 JavaScript 的 [WebStorm](https://www.jetbrains.com/webstorm/)
 
 #### Git For Windows
 Git For Windows(官网地址：[https://gitforwindows.org/](https://gitforwindows.org/) )
