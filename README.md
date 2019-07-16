@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 常用软件列表
 
-You can use the [editor on GitHub](https://github.com/ismdeep/software/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*[English](README-en.md) ∙ [简体中文](README.md)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本打算写一些喷国内软件厂商的话的，后来想想，没什么必要。我不喜欢用国产软件的一个主要原因是后台广告、弹窗等东西太多。至于为什么会有这种乱象，我决定不过多去说。接下来所推荐的一些软件，也是笔者一直在使用的一些软件。
 
-### Markdown
+### 娱乐软件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 开发工具
 
-```markdown
-Syntax highlighted code block
+### 系统工具
 
-# Header 1
-## Header 2
-### Header 3
+#### 压缩软件
+7-Zip 对于 7-Zip ，我的评价很高，因为这个软件体积非常小。而且国内有很多压缩软件，使用的都是这个软件的内核及算法。然后在他们的软件中加入了很多广告和插件，于是就有了国内体积更大的压缩软件。
+- 32位下载：[https://www.7-zip.org/a/7z1900.exe](https://www.7-zip.org/a/7z1900.exe)
+- 64位下载：[https://www.7-zip.org/a/7z1900-x64.exe](https://www.7-zip.org/a/7z1900-x64.exe)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ismdeep/software/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 办公软件
