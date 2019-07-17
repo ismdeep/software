@@ -10,6 +10,8 @@ VLC(VideoLAN，官网地址：[https://www.videolan.org/](https://www.videolan.o
 - 32位下载：[https://get.videolan.org/vlc/3.0.7.1/win32/vlc-3.0.7.1-win32.exe](https://get.videolan.org/vlc/3.0.7.1/win32/vlc-3.0.7.1-win32.exe)
 - 64位下载：[https://get.videolan.org/vlc/3.0.7.1/win64/vlc-3.0.7.1-win64.exe](https://get.videolan.org/vlc/3.0.7.1/win64/vlc-3.0.7.1-win64.exe)
 
+---
+
 ### 0x02 开发工具
 #### 0x0201 VIM 编辑器
 VIM(官网地址：[https://www.vim.org/](https://www.vim.org/)), Windows 上使用的是 gvim.
@@ -38,11 +40,15 @@ PuTTY (官网地址：[https://www.putty.org/](https://www.putty.org/) ) 是一�
 - 32位下载：[https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
 - 64位下载：[https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
+---
+
 ### 0x03 系统工具
 
 #### 0x0301 压缩软件
 7-Zip(官网地址：[https://www.7-zip.org/](https://www.7-zip.org/)) 对于 7-Zip ，我的评价很高，因为这个软件体积非常小。而且国内有很多压缩软件，使用的都是这个软件的内核及算法。然后在他们的软件中加入了很多广告和插件，于是就有了国内体积更大的压缩软件。
 - 32位下载：[https://www.7-zip.org/a/7z1900.exe](https://www.7-zip.org/a/7z1900.exe)
 - 64位下载：[https://www.7-zip.org/a/7z1900-x64.exe](https://www.7-zip.org/a/7z1900-x64.exe)
+
+---
 
 ### 0x04 办公软件
