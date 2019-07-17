@@ -19,12 +19,41 @@ VIM(官网地址：[https://www.vim.org/](https://www.vim.org/)), Windows 上使
 
 #### 0x0202 JetBrains 全家桶
 JetBrains (官网地址：[https://www.jetbrains.com/](https://www.jetbrains.com/) ) 旗下有很多款集成开发环境。
-- 有面向 C/C++ 的 [CLion](https://www.jetbrains.com/clion/)
-- 有面向 Java/Kotlin 的 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- 有面向 Go 的 [GoLand](https://www.jetbrains.com/go/)
-- 有面向 PHP 的 [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- 有面向 Python 的 [PyCharm](https://www.jetbrains.com/pycharm/)
-- 有面向 JavaScript 的 [WebStorm](https://www.jetbrains.com/webstorm/)
+- 面向 C/C++ 的 [CLion](https://www.jetbrains.com/clion/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/cpp/CLion-2019.1.4.exe](https://download.jetbrains.8686c.com/cpp/CLion-2019.1.4.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/cpp/CLion-2019.1.4.exe](https://download-cf.jetbrains.com/cpp/CLion-2019.1.4.exe)
+
+- 面向 Java/Kotlin 的 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/idea/ideaIU-2019.1.3.exe](https://download.jetbrains.8686c.com/idea/ideaIU-2019.1.3.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/idea/ideaIU-2019.1.3.exe](https://download-cf.jetbrains.com/idea/ideaIU-2019.1.3.exe)
+
+- 面向 Go 的 [GoLand](https://www.jetbrains.com/go/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/go/goland-2019.1.3.exe](https://download.jetbrains.8686c.com/go/goland-2019.1.3.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/go/goland-2019.1.3.exe](https://download-cf.jetbrains.com/go/goland-2019.1.3.exe)
+
+- 面向 PHP 的 [PhpStorm](https://www.jetbrains.com/phpstorm/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/webide/PhpStorm-2019.1.3.exe](https://download.jetbrains.8686c.com/webide/PhpStorm-2019.1.3.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/webide/PhpStorm-2019.1.3.exe](https://download-cf.jetbrains.com/webide/PhpStorm-2019.1.3.exe)
+
+- 面向 Python 的 [PyCharm](https://www.jetbrains.com/pycharm/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/python/pycharm-professional-2019.1.3.exe](https://download.jetbrains.8686c.com/python/pycharm-professional-2019.1.3.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/python/pycharm-professional-2019.1.3.exe](https://download-cf.jetbrains.com/python/pycharm-professional-2019.1.3.exe)
+
+- 面向 JavaScript 的 [WebStorm](https://www.jetbrains.com/webstorm/)
+
+  国内下载地址：[https://download.jetbrains.8686c.com/webstorm/WebStorm-2019.1.3.exe](https://download.jetbrains.8686c.com/webstorm/WebStorm-2019.1.3.exe)
+
+  国外下载地址：[https://download-cf.jetbrains.com/webstorm/WebStorm-2019.1.3.exe](https://download-cf.jetbrains.com/webstorm/WebStorm-2019.1.3.exe)
 
 #### 0x0203 Git For Windows
 Git For Windows(官网地址：[https://gitforwindows.org/](https://gitforwindows.org/) )
@@ -49,6 +78,31 @@ PuTTY (官网地址：[https://www.putty.org/](https://www.putty.org/) ) 是一�
 - 32位下载：[https://www.7-zip.org/a/7z1900.exe](https://www.7-zip.org/a/7z1900.exe)
 - 64位下载：[https://www.7-zip.org/a/7z1900-x64.exe](https://www.7-zip.org/a/7z1900-x64.exe)
 
+
+
+### 0x0302 下载工具
+
+IDM (Internet Download Manager, 官网地址：[http://www.internetdownloadmanager.com/](http://www.internetdownloadmanager.com/) ) 是一款下载速度极快的下载工具。
+
+- 下载地址：[http://mirror2.internetdownloadmanager.com/idman633build3.exe?b=1&filename=idman633build3.exe](http://mirror2.internetdownloadmanager.com/idman633build3.exe?b=1&filename=idman633build3.exe)
+
 ---
 
 ### 0x04 办公软件
+
+#### 0x0401 Office 套件
+
+Office 套件，推荐使用微软官方的Office套件。通过 ed2k 下载工具下载下面的链接。下面选择的是 Office 2013 零售版，因为这个版本比较容易通过 KMS 进行激活。KMS 工具下载页面：[https://www.landiannews.com/archives/57559.html](https://www.landiannews.com/archives/57559.html)
+
+32位下载链接：
+
+```
+ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_W32_ChnSimp_MLF_X18-55126.ISO|850122752|72F01530B3A9C320E166A1A412F1D869|/
+```
+
+64位下载链接：
+
+```
+ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_64Bit_ChnSimp_MLF_X18-55285.ISO|958879744|678EF5DD83F825E97FB710996E0BA597|/
+```
+
