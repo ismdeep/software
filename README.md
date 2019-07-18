@@ -69,6 +69,22 @@ PuTTY (官网地址：[https://www.putty.org/](https://www.putty.org/) ) 是一�
 - 32位下载：[https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
 - 64位下载：[https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
+#### 0x0206 Markdown 编辑器
+
+Typora (官网地址：[https://www.typora.io/](https://www.typora.io/) )
+
+- 32位下载地址：[https://www.typora.io/windows/typora-setup-ia32.exe](https://www.typora.io/windows/typora-setup-ia32.exe)
+- 64位下载地址：[https://www.typora.io/windows/typora-setup-x64.exe](https://www.typora.io/windows/typora-setup-x64.exe)
+
+#### 0x0207 SVN 工具
+
+TortoiseSVN (官网地址：[https://tortoisesvn.net](https://tortoisesvn.net/) ) 可以集成在Windows 资源管理器中。操作简单方便。
+
+- 32位下载地址：[https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-win32-svn-1.12.0.msi](https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-win32-svn-1.12.0.msi)
+- 64位下载地址：[https://mirrors.gigenet.com/OSDN//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-x64-svn-1.12.0.msi](https://mirrors.gigenet.com/OSDN//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-x64-svn-1.12.0.msi)
+
+
+
 ---
 
 ### 0x03 系统工具
@@ -82,9 +98,15 @@ PuTTY (官网地址：[https://www.putty.org/](https://www.putty.org/) ) 是一�
 
 ### 0x0302 下载工具
 
-IDM (Internet Download Manager, 官网地址：[http://www.internetdownloadmanager.com/](http://www.internetdownloadmanager.com/) ) 是一款下载速度极快的下载工具。
+IDM (Internet Download Manager, 官网地址：[http://www.internetdownloadmanager.com/](http://www.internetdownloadmanager.com/) ) 是一款下载速度极快的下载工具。IDM 是一款收费软件，但软件有一个月的免费试用时间。可以通过 [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) 进行不断延长试用时间。下载地址：[https://github.com/J2TEAM/idm-trial-reset/releases/download/v1.0.0/IDM.Trial.Reset.v1.0.0.zip](https://github.com/J2TEAM/idm-trial-reset/releases/download/v1.0.0/IDM.Trial.Reset.v1.0.0.zip)
 
 - 下载地址：[http://mirror2.internetdownloadmanager.com/idman633build3.exe?b=1&filename=idman633build3.exe](http://mirror2.internetdownloadmanager.com/idman633build3.exe?b=1&filename=idman633build3.exe)
+
+#### 0x0303 WinDirStat
+
+WinDirStat(WIndows Directory Statistics, 官网地址：[https://windirstat.net/](https://windirstat.net/) ) 是一款磁盘使用量统计的可视化工具。
+
+- 下载地址：[https://www.fosshub.com/WinDirStat.html?dwl=windirstat1_1_2_setup.exe](https://www.fosshub.com/WinDirStat.html?dwl=windirstat1_1_2_setup.exe)
 
 ---
 
