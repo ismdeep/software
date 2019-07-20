@@ -17,6 +17,8 @@ VLC(VideoLAN，官网地址：[https://www.videolan.org/](https://www.videolan.o
 VIM(官网地址：[https://www.vim.org/](https://www.vim.org/)), Windows 上使用的是 gvim.
 - 下载地址：[https://ftp.nluug.nl/pub/vim/pc/gvim81.exe](https://ftp.nluug.nl/pub/vim/pc/gvim81.exe)
 
+
+
 #### 0x0202 JetBrains 全家桶
 JetBrains (官网地址：[https://www.jetbrains.com/](https://www.jetbrains.com/) ) 旗下有很多款集成开发环境。
 - 面向 C/C++ 的 [CLion](https://www.jetbrains.com/clion/)
@@ -55,35 +57,39 @@ JetBrains (官网地址：[https://www.jetbrains.com/](https://www.jetbrains.com
 
   国外下载地址：[https://download-cf.jetbrains.com/webstorm/WebStorm-2019.1.3.exe](https://download-cf.jetbrains.com/webstorm/WebStorm-2019.1.3.exe)
 
+
+
 #### 0x0203 Git For Windows
 Git For Windows(官网地址：[https://gitforwindows.org/](https://gitforwindows.org/) )
 - 下载地址：[https://github.com/git-for-windows/git/releases/download/v2.22.0.windows.1/Git-2.22.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.22.0.windows.1/Git-2.22.0-64-bit.exe)
+
+
 
 #### 0x0204 Sublime Text
 Sublime Text(官网地址：[http://www.sublimetext.com/](http://www.sublimetext.com/) ) 是一个代码编辑器，Sublime Text的优点是打开速度快，有丰富的扩展。
 - 32位下载：[https://download.sublimetext.com/Sublime%20Text%20Build%203207%20Setup.exe](https://download.sublimetext.com/Sublime%20Text%20Build%203207%20Setup.exe)
 - 64位下载：[https://download.sublimetext.com/Sublime%20Text%20Build%203207%20x64%20Setup.exe](https://download.sublimetext.com/Sublime%20Text%20Build%203207%20x64%20Setup.exe)
 
+
+
 #### 0x0205 SSH 远程连接工具
 PuTTY (官网地址：[https://www.putty.org/](https://www.putty.org/) ) 是一个Telnet、SSH、rlogin、纯TCP以及串行接口连接软件。
 - 32位下载：[https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
 - 64位下载：[https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
+
+
 #### 0x0206 Markdown 编辑器
-
 Typora (官网地址：[https://www.typora.io/](https://www.typora.io/) )
-
 - 32位下载地址：[https://www.typora.io/windows/typora-setup-ia32.exe](https://www.typora.io/windows/typora-setup-ia32.exe)
 - 64位下载地址：[https://www.typora.io/windows/typora-setup-x64.exe](https://www.typora.io/windows/typora-setup-x64.exe)
 
+
+
 #### 0x0207 SVN 工具
-
 TortoiseSVN (官网地址：[https://tortoisesvn.net](https://tortoisesvn.net/) ) 可以集成在Windows 资源管理器中。操作简单方便。
-
 - 32位下载地址：[https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-win32-svn-1.12.0.msi](https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-win32-svn-1.12.0.msi)
 - 64位下载地址：[https://mirrors.gigenet.com/OSDN//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-x64-svn-1.12.0.msi](https://mirrors.gigenet.com/OSDN//storage/g/t/to/tortoisesvn/1.12.0/Application/TortoiseSVN-1.12.0.28568-x64-svn-1.12.0.msi)
-
-
 
 ---
 
@@ -118,13 +124,13 @@ Office 套件，推荐使用微软官方的Office套件。通过 ed2k 下载工�
 
 32位下载链接：
 
-```
+```text
 ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_W32_ChnSimp_MLF_X18-55126.ISO|850122752|72F01530B3A9C320E166A1A412F1D869|/
 ```
 
 64位下载链接：
 
-```
+```text
 ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_64Bit_ChnSimp_MLF_X18-55285.ISO|958879744|678EF5DD83F825E97FB710996E0BA597|/
 ```
 
