@@ -3,4 +3,5 @@
 
 ---
 
-下载地址：[https://download.ismdeep.com/software/windows/oem7F.rar](https://download.ismdeep.com/software/windows/oem7F.rar)
+Download: [https://download.ismdeep.com/software/windows/oem7F.rar](https://download.ismdeep.com/software/windows/oem7F.rar)
+
