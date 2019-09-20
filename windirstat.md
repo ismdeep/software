@@ -1,5 +1,5 @@
 
-[software](/software) -> [WinDirStat](/software/windirstat)
+[首页](/software) -> [WinDirStat](/software/windirstat)
 
 ---
 

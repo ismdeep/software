@@ -1,5 +1,5 @@
 
-[software](/software) -> [EditPlus](/software/editplus)
+[首页](/software) -> [EditPlus](/software/editplus)
 
 ---
 

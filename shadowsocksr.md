@@ -1,5 +1,5 @@
 
-[software](/software) -> [ShadowsocksR](/software/shadowsocksr)
+[首页](/software) -> [ShadowsocksR](/software/shadowsocksr)
 
 ---
 

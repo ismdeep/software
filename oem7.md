@@ -1,5 +1,5 @@
 
-[software](/software) -> [OEM7](/software/oem7)
+[首页](/software) -> [OEM7](/software/oem7)
 
 ---
 

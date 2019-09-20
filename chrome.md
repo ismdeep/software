@@ -1,5 +1,5 @@
 
-[software](/software) -> [Chrome](/software/chrome)
+[首页](/software) -> [Chrome](/software/chrome)
 
 ---
 

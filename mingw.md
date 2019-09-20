@@ -1,5 +1,5 @@
 
-[software](/software) -> [MinGW](/software/mingw)
+[首页](/software) -> [MinGW](/software/mingw)
 
 ---
 

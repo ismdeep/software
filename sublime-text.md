@@ -1,5 +1,5 @@
 
-[software](/software) -> [Sublime Text](/software/sublime-text)
+[首页](/software) -> [Sublime Text](/software/sublime-text)
 
 ---
 

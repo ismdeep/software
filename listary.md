@@ -1,5 +1,5 @@
 
-[software](/software) -> [Listary](/software/listary)
+[首页](/software) -> [Listary](/software/listary)
 
 ---
 

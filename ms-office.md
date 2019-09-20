@@ -1,5 +1,5 @@
 
-[software](/software) -> [Office](/software/ms-office)
+[softw首页are](/software) -> [Office](/software/ms-office)
 
 ---
 

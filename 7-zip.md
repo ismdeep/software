@@ -1,5 +1,5 @@
 
-[software](/software) -> [7-Zip](/software/7-zip)
+[首页](/software) -> [7-Zip](/software/7-zip)
 
 ---
 

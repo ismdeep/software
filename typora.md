@@ -1,5 +1,5 @@
 
-[software](/software) -> [Typora](/software/typora)
+[首页](/software) -> [Typora](/software/typora)
 
 ---
 

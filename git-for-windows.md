@@ -1,5 +1,5 @@
 
-[software](/software) -> [Git For Windows](/software/git-for-windows)
+[首页](/software) -> [Git For Windows](/software/git-for-windows)
 
 ---
 

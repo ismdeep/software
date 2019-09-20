@@ -1,5 +1,5 @@
 
-[software](/software) -> [FireFox](/software/firefox)
+[首页](/software) -> [FireFox](/software/firefox)
 
 ---
 

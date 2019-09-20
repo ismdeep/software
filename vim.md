@@ -1,5 +1,5 @@
 
-[software](/software) -> [vim](/software/vim)
+[首页](/software) -> [vim](/software/vim)
 
 ---
 

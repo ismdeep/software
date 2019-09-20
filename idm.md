@@ -1,5 +1,5 @@
 
-[software](/software) -> [Internet Download Manager](/software/idm)
+[首页](/software) -> [Internet Download Manager](/software/idm)
 
 ---
 

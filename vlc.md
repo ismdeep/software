@@ -1,5 +1,5 @@
 
-[software](/software) -> [vlc](/software/vlc)
+[首页](/software) -> [vlc](/software/vlc)
 
 ---
 

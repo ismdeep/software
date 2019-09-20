@@ -1,5 +1,5 @@
 
-[software](/software) -> [KMS](/software/kms)
+[首页](/software) -> [KMS](/software/kms)
 
 ---
 

@@ -1,5 +1,5 @@
 
-[software](/software) -> [foobar2000](/software/foobar2000)
+[首页](/software) -> [foobar2000](/software/foobar2000)
 
 ---
 

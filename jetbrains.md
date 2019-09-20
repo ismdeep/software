@@ -1,5 +1,5 @@
 
-[software](/software) -> [jetbrains](/software/jetbrains)
+[首页](/software) -> [jetbrains](/software/jetbrains)
 
 ---
 

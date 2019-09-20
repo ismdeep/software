@@ -1,5 +1,5 @@
 
-[software](/software) -> [PuTTY](/software/putty)
+[首页](/software) -> [PuTTY](/software/putty)
 
 ---
 
