@@ -1,6 +1,4 @@
-## Software Recommendations
-
-| OS Platform | macOS                                                        | Windows                                                      | Linux                                                        |
+| 操作系统 | macOS                                                        | Windows                                                      | Linux                                                        |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Entertaiment | [VideoLAN](vlc)<br/>[NeteaseMusic](netease-music)<br/>[VOX](vox) | [VideoLAN](vlc)<br/>[NeteaseMusic](netease-music)<br/>[foobar2000](foobar2000) | [VideoLAN](vlc)<br/>[NeteaseMusic](netease-music)   |
 | Development | [VIM](vim)<br/>[JetBrains](jetbrains)<br/>[Sublime Text](sublime-text)<br/>[Typora](typora) | [VIM](vim)<br/>[JetBrains](jetbrains)<br/>[Git For Windows](git-for-windows)<br/>[Sublime Text](sublime-text)<br/>[PuTTY](putty)<br/>[Typora](typora)<br/>[TortoiseSVN](tortoisesvn)<br/>[EditPlus](editplus)<br/>[MinGW](mingw) | [VIM](vim)<br/>[JetBrains](jetbrains)<br/>[Sublime Text](sublime-text)<br/>[Typora](typora) |
