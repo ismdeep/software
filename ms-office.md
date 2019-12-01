@@ -16,3 +16,11 @@ ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_W32_ChnSimp_MLF_X18-55126.ISO
 ```text
 ed2k://|file|SW_DVD5_Office_Professional_Plus_2013_64Bit_ChnSimp_MLF_X18-55285.ISO|958879744|678EF5DD83F825E97FB710996E0BA597|/
 ```
+
+
+安装及激活视频教程
+```text
+链接: https://pan.baidu.com/s/1RsupiwR4QLzRwX__oXhQNg
+
+提取码: 8psy
+```
